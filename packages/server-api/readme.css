@@ -1,0 +1,12 @@
+/*
+npm i -D lerna
+npx lerna init
+
+server-api
+    npm init --yes
+    npm install express body-parser
+
+
+npx lerna clean -y
+npx lerna bootstrap --hoist 
+*/
